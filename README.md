@@ -16,4 +16,3 @@ zet de bin folder naar directery naar control panel / system and security/ advan
 downlaod de laatst geupdate zip file
 extract deze file
 open de folder delet de .user file en dubbelkik de QhogiGUI.pro (QhogiGUI_try3.pro)
-tada
